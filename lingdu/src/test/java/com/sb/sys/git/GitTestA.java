@@ -20,8 +20,9 @@ package com.sb.sys.git;
  */
 public class GitTestA {
     //从IDEA新建的git 修改配置文件 新增包 提交到master
+
     public static void main(String[] args) {
-        System.out.println("从IDEA新建的git");
+        System.out.println("lingdu01删掉部分");
     }
 
 }
