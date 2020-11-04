@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "lingdu.page",
+      "type": "com.sb.sys.config.PageProperties",
+      "sourceType": "com.sb.sys.config.PageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "lingdu.page.page-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sb.sys.config.PageProperties",
+      "defaultValue": 6
+    }
+  ],
+  "hints": []
+}

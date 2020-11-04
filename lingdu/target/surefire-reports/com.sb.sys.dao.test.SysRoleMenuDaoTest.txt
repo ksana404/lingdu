@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sb.sys.dao.test.SysRoleMenuDaoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.sb.sys.dao.test.SysRoleMenuDaoTest

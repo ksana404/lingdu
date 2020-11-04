@@ -1,0 +1,7 @@
+com\sb\sys\dao\test\SysMenuDaoTest.class
+com\sb\sys\dao\test\SysLogDaoTest.class
+com\sb\LingduApplicationTests.class
+com\sb\sys\dao\test\SysRoleMenuDaoTest.class
+com\sb\sys\service\test\SysMenuServiceTest.class
+com\sb\sys\service\test\SysLogServiceTest.class
+com\sb\sys\aspect\test\AspectDemoTest.class

@@ -1,6 +1,6 @@
-#server
+#server lingdu 提交到master
 server:
-  port: 8090
+  port: 8099
   servlet:
     context-path: /
   tomcat:

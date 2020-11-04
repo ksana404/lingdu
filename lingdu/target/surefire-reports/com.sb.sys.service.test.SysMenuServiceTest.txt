@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.sb.sys.service.test.SysMenuServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in com.sb.sys.service.test.SysMenuServiceTest
+deleteObjectTest  Time elapsed: 0.004 s  <<< ERROR!
+com.sb.exception.ServiceException: 此菜单已经不存在！
+	at com.sb.sys.service.test.SysMenuServiceTest.deleteObjectTest(SysMenuServiceTest.java:28)
+
